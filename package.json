@@ -1,0 +1,22 @@
+{
+  "name": "vivi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niaeashes/vivi.git"
+  },
+  "author": "",
+  "license": {
+    "type": "MIT",
+    "url": "https://www.opensource.org/licenses/mit-license.php"
+  },
+  "bugs": {
+    "url": "https://github.com/niaeashes/vivi/issues"
+  },
+  "homepage": "https://github.com/niaeashes/vivi#readme"
+}
